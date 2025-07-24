@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/EtaPanel-dev/Eta.Frontend
+[submodule "Core"]
+	path = Core
+	url = https://github.com/EtaPanel-dev/Eta.Core
