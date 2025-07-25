@@ -1,4 +1,4 @@
-# EtaPanel 以太面板
+# EtaPanel 维元面板
 
 A brand new server maintaince tool.  
 一个集结各种新颖功能的服务器运维面板。
@@ -17,9 +17,9 @@ This is a project produced during AdventureX 2025.
 - Aehxy
 
 ## Theme 主题  
-ReMake 重新发明创造
+Just Do It 脑洞
 
 ## Track 赛道  
 - Injective  
 - Kimi  
-<!-- - 腾讯云智能体平台 -->
+- 腾讯云智能体平台
