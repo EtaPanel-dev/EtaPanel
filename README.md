@@ -1,3 +1,4 @@
+![icon](https://github.com/EtaPanel-dev/EtaPanel/blob/master/logo.png?raw=true)
 # EtaPanel 维元面板
 
 A brand new server maintaince tool.  
@@ -22,4 +23,5 @@ Just Do It 脑洞
 ## Track 赛道  
 - Injective  
 - Kimi  
+- Kiro
 - 腾讯云智能体平台
