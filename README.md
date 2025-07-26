@@ -17,7 +17,7 @@ This is a project produced during AdventureX 2025.
 - Aehxy
 
 ## Theme 主题  
-Just Do It 脑洞
+Just Do It 脑洞
 
 ## Track 赛道  
 - Injective  
